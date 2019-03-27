@@ -1,4 +1,5 @@
 function add(p, k) {
 	var aaa = 12;
-	return a * k + aaa;
+	var c = [];
+	return p * k + aaa;
 }
