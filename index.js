@@ -1,3 +1,4 @@
-function add(a, b) {
-	return a + b;
+function add(p, k) {
+	var aaa = 12;
+	return a * k + aaa;
 }
