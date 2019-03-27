@@ -1,5 +1,5 @@
-function add(a, b) {
-	return a *zhangjinsong;
+function add(c, g) {
+	return c * g;
 	
 
 }
