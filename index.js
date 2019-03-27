@@ -1,4 +1,4 @@
-function add(a, b) {
-	var c = [];
-	return a * b;
+function add(p, k) {
+	var c =[]
+	return p * k;
 }
