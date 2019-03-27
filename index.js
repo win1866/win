@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 function add(a, b) {
     var xiugai = 155;
-    var c = [];
+    var c = [1,2,3,4,5];
     return a * b;
 }
 =======
